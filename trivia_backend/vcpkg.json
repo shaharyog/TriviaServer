@@ -1,0 +1,30 @@
+{
+  "name": "trivia-backend",
+  "version": "2.0.0",
+  "dependencies": [
+    {
+      "name": "kissnet"
+    },
+    {
+      "name": "boost-uuid"
+    },
+    {
+      "name": "nlohmann-json"
+    },
+    {
+      "name": "sqlite-orm"
+    },
+    {
+      "name": "fmt"
+    },
+    {
+      "name": "cpp-httplib",
+      "features": [
+        "openssl"
+      ]
+    },
+    {
+      "name": "date"
+    }
+  ]
+}
